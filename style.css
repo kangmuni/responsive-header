@@ -98,7 +98,7 @@ li {
   .navbar__menuAndIcon {
     display: none;
     flex-direction: column;
-    margin-left: 2.5rem;
+    margin-left: 2rem;
     margin-top: 1em;
     padding-right: 9em;
     font-size: 1.35rem;
@@ -110,7 +110,7 @@ li {
   }
 
   .menu li {
-    padding: 1.7em 0 0 0;
+    padding: 1em 0 0 0;
   }
 
   .menu li:hover {
