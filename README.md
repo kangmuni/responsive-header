@@ -16,5 +16,6 @@
 > **작은 화면**
 
 |토글버튼 생성|토글버튼 클릭|
-|--|--|
-|![스크린샷 2022-05-26 오전 10 53 30](https://user-images.githubusercontent.com/68316994/173471580-6bbd4086-3d16-417c-a333-9846e6149b53.png)|![스크린샷 2022-05-26 오전 10 53 34](https://user-images.githubusercontent.com/68316994/173472162-39d5a4c9-b848-4339-b947-f0d6c28337e5.png)|
+|:--:|:--:|
+|<img src="https://user-images.githubusercontent.com/68316994/173471580-6bbd4086-3d16-417c-a333-9846e6149b53.png" height="500">|<img src="https://user-images.githubusercontent.com/68316994/173472162-39d5a4c9-b848-4339-b947-f0d6c28337e5.png" height="500">|
+
